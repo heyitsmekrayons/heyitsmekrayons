@@ -2,7 +2,7 @@
 - 👀 I’m interested in communication and providing customer satisfaction
 - 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at karasuarez23@gmail.com
 
 <!---
 heyitsmekrayons/heyitsmekrayons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
